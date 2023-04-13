@@ -28,6 +28,6 @@
     "webpack-dev-server": "^4.2.1"
   },
   "dependencies": {
-    "@webgpu/types": "^0.1.14"
+    "@webgpu/types": "^0.1.30"
   }
 }
